@@ -1,3 +1,16 @@
 ### Hikaru Terazono (3c1u)
 
-冷泉院桐香はいいぞ．カフェインをキメながらRustとTypeScriptを書いてます．
+カフェインをキメながらコードを書いています．
+
+![冷泉院桐香](assets/tohka.jpg)
+
+## Languages
+
+* **Rust**
+* C++
+* TypeScript
+
+## Technologies
+
+* Qt
+* Gamedev

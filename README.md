@@ -4,6 +4,10 @@
 
 ![冷泉院桐香](https://raw.githubusercontent.com/3c1u/3c1u/master/assets/tohka.jpg)
 
+## Stats
+
+[![](https://github-readme-stats.vercel.app/api?username=3c1u)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Languages
 
 * **Rust**

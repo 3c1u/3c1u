@@ -2,7 +2,7 @@
 
 カフェインをキメながらコードを書いています．
 
-![冷泉院桐香](https://raw.githubusercontent.com/3c1u/3c1u/master/assets/tohka.jpg)
+<!-- ![冷泉院桐香](https://raw.githubusercontent.com/3c1u/3c1u/master/assets/tohka.jpg) -->
 
 ## Stats
 

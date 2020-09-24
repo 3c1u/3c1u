@@ -1,6 +1,11 @@
 ### Hikaru Terazono (3c1u)
 
-カフェインをキメながらコードを書いています．
+[Twitter](https://twitter.com/murueka_misw)
+
+[SoundCloud](https://soundcloud.com/murueka)
+
+[Zenn](https://zenn.dev/3c1u)
+
 
 <!-- ![冷泉院桐香](https://raw.githubusercontent.com/3c1u/3c1u/master/assets/tohka.jpg) -->
 

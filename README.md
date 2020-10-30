@@ -1,6 +1,6 @@
 ### Hikaru Terazono (3c1u)
 
-[Twitter](https://twitter.com/murueka_misw)
+[Twitter](https://twitter.com/tohkani) ([private](https://twitter.com/murueka_misw))
 
 [SoundCloud](https://soundcloud.com/murueka)
 

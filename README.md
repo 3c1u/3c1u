@@ -20,10 +20,10 @@
 </div>
 
 ## Programming
-![image](https://user-images.githubusercontent.com/298748/197401381-5c35d8a4-3999-488f-8af5-2d7ae44ddf6c.png)
+<img src="https://user-images.githubusercontent.com/298748/197401381-5c35d8a4-3999-488f-8af5-2d7ae44ddf6c.png" width="600" />
 
 ## Research
 <img src="https://user-images.githubusercontent.com/298748/197401186-1b950149-3088-4066-8f40-3a15f9f50665.png" width=600 height=279 />
 <img src="https://user-images.githubusercontent.com/298748/197401199-bf4ba463-4d65-45a2-930a-a570090d3ce9.png" width=600 height=279 />
-
+<img src="https://user-images.githubusercontent.com/298748/197401799-59602512-de98-4089-9a9c-68bc76a2c264.jpg" width=600 height=279 />
 </div>

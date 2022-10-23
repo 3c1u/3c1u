@@ -8,7 +8,7 @@
 
 <div>
 
-<img align="right" src="https://user-images.githubusercontent.com/298748/197400909-1ea1e55b-6a54-48d4-b647-d3655c856701.png" width=351 height=250 />
+<img align="right" src="https://user-images.githubusercontent.com/298748/197400909-1ea1e55b-6a54-48d4-b647-d3655c856701.png" width=320 height=230 />
 
 [![3c1u's GitHub stats](https://github-readme-stats.vercel.app/api?username=3c1u&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 

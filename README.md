@@ -10,7 +10,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/298748/197400909-1ea1e55b-6a54-48d4-b647-d3655c856701.png" width=300 />
 
-[![3c1u's GitHub stats](https://github-readme-stats.vercel.app/api?username=3c1u&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![3c1u's GitHub stats](https://github-readme-stats.vercel.app/api?username=3c1u&theme=onedark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![internet-explorer-1996](https://user-images.githubusercontent.com/298748/197399893-d0081b44-9d70-41a0-9ba5-dde52eb98a0e.gif)](https://www.mozilla.org/firefox/new/)
 [![image](https://user-images.githubusercontent.com/298748/197400262-d5b555b5-7df8-4d47-961b-1e36aa32e7b9.png)](https://www.mozilla.org/firefox/new/)
